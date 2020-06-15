@@ -7,4 +7,8 @@ Catch-password....tool.
 ### 
 # pkg install git
 ##
-# got clone 
+# git clone http://GitHub.com/nayan007/nayan007.github.io
+##
+# cd
+# ls
+# run...
